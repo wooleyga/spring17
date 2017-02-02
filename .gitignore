@@ -1,0 +1,39 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+__pycache__
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+#*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+*.db
+sqlite3
+
+# pyCharm & temp files #
+########################
+/.idea
+*~
+
+.metadata
+.classpath
+.project
+.DS_Store
+.settings
